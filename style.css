@@ -152,18 +152,19 @@ body{
         font-size:16px;
     }
 }
-
-/* Chrome, Edge, Safari */
 ::-webkit-scrollbar {
     display: none;
 }
-
-/* Firefox */
 html {
     scrollbar-width: none;
 }
-
-/* IE i stary Edge */
 html {
     -ms-overflow-style: none;
+}
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 10px;
 }

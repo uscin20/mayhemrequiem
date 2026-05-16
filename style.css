@@ -20,7 +20,7 @@ html, body{
 body{
     background:
         linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.85)),
-        url("img/bg.jpg");
+        url("bg.jpg");
 
     background-size:cover;
     background-position:center center;
@@ -44,7 +44,7 @@ body{
 
 .corner{
     position:fixed;
-    width:120px;
+    width:150px;
     z-index:999;
     pointer-events:none;
     opacity:0.9;

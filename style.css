@@ -162,6 +162,7 @@ html {
     -ms-overflow-style: none;
 }
 .footer {
+    background-color: rbga(0, 0, 0, 0)
     color: white;
     text-align: center;
     padding: 10px;
